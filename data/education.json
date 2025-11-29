@@ -2,24 +2,38 @@
   "sectionTitle": "Education",
   "education": [
     {
-      "degree": "Master of Science in Information Security Policy and Management",
-      "institution": "CARNEGIE MELlon University (CMU)",
-      "period": "Aug. 2022 - May 2024",
-      "description": "Master of Science in Information Security Policy and Management",
-      "achievements": [],
+      "degree": "Master of Science in Information Security Policy & Management",
+      "school": "Carnegie Mellon University",
+      "period": "Aug 2022 - May 2024",
+      "details": "Heinz College of Information Systems and Public Policy",
+      "achievements": [
+        "CMU Olympus Incubator Program",
+        "McGinnis Venture Competition Finalist (4th/150)",
+        "NLP Research at Language Technologies Institute"
+      ],
       "color": "#667eea",
       "icon": "fas fa-graduation-cap"
     },
     {
-      "degree": "Bachelor of Science in Statistics & Political Science with minor in Computer Science",
-      "institution": "INSTITUTO TECNOLÓGICO AUTÓNOMO DE MÉXICO (ITAM)",
-      "period": "Aug. 2016-May 2021",
-      "description": "Bachelor of Science in Statistics & Political Science with minor in Computer Science",
-      "achievements": [],
+      "degree": "Bachelor of Science in Statistics & Political Science",
+      "school": "Instituto Tecnologico Autonomo de Mexico (ITAM)",
+      "period": "Aug 2016 - May 2021",
+      "details": "Minor in Computer Science",
+      "achievements": [
+        "VoxMapp Competition - Most Efficient Database Design",
+        "Bloomberg Competition - 2nd Place"
+      ],
       "color": "#764ba2",
       "icon": "fas fa-graduation-cap"
     }
   ],
-  "certificationsTitle": "Certifications & Awards",
-  "certifications": []
+  "certificationsTitle": "Certifications",
+  "certifications": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services",
+      "icon": "fab fa-aws",
+      "color": "#FF9900"
+    }
+  ]
 }

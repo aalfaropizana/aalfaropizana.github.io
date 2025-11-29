@@ -1,26 +1,28 @@
 {
   "sectionTitle": "About Me",
   "paragraphs": [
-    "I am a passionate developer with a strong background in building innovative solutions."
+    "I'm an AI Engineer at Bank of New York, where I lead Responsible AI initiatives and have reviewed 288+ AI/ML models for enterprise deployment. I hold a Master's from Carnegie Mellon University in Information Security Policy & Management.",
+    "My work spans LLM evaluation, NLP research, and AI governance. I've published at ACL 2024 on low-resource language AI, have a patent pending for LLM hallucination testing, and won 1st place at the Atlantic Council 9/12 Cybersecurity Strategy Challenge.",
+    "Before Wall Street, I built data infrastructure for Mexico's Supreme Court, processing 5M+ legal records. I'm passionate about building AI systems that are both powerful and responsible."
   ],
   "statistics": [
     {
-      "icon": "fas fa-briefcase",
+      "icon": "fas fa-brain",
       "color": "#667eea",
-      "value": "4+",
-      "label": "Years Experience"
+      "value": "288+",
+      "label": "AI Models Reviewed"
     },
     {
-      "icon": "fas fa-project-diagram",
+      "icon": "fas fa-rocket",
       "color": "#764ba2",
-      "value": "15+",
-      "label": "Projects"
+      "value": "43",
+      "label": "Models Validated for Production"
     },
     {
-      "icon": "fas fa-code",
+      "icon": "fas fa-database",
       "color": "#f093fb",
-      "value": "24+",
-      "label": "Technologies"
+      "value": "5M+",
+      "label": "Legal Records Processed"
     }
   ],
   "downloadCV": {
