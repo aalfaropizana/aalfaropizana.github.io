@@ -1,24 +1,24 @@
 {
   "greeting": "Hello, I'm",
   "name": "Ana Pizana",
-  "title": "AI & LLM ENGINEER",
-  "tagline": "AI & LLM ENGINEER",
-  "summary": "Welcome to my portfolio",
+  "title": "AI Engineer",
+  "tagline": "Building Responsible AI at Scale",
+  "summary": "AI Engineer at Bank of New York | Carnegie Mellon University | ACL'24 Published Researcher",
   "highlights": [
     {
-      "icon": "fas fa-briefcase",
+      "icon": "fas fa-brain",
       "color": "#667eea",
-      "text": "4+ Years Experience"
+      "text": "288+ AI Models Reviewed"
     },
     {
-      "icon": "fas fa-project-diagram",
+      "icon": "fas fa-lightbulb",
       "color": "#764ba2",
-      "text": "15+ Projects Completed"
+      "text": "Patent Pending"
     },
     {
-      "icon": "fas fa-code",
+      "icon": "fas fa-trophy",
       "color": "#f093fb",
-      "text": "24+ Technologies"
+      "text": "1st Place Atlantic Council"
     }
   ],
   "cta": {
@@ -37,7 +37,18 @@
       }
     ]
   },
-  "socialLinks": [],
+  "socialLinks": [
+    {
+      "url": "https://www.linkedin.com/in/ana-alfaro-pizana-484bb9252/",
+      "icon": "fab fa-linkedin",
+      "platform": "LinkedIn"
+    },
+    {
+      "url": "https://github.com/aalfaropizana",
+      "icon": "fab fa-github",
+      "platform": "GitHub"
+    }
+  ],
   "scrollIndicator": {
     "text": "Scroll to explore",
     "icon": "fas fa-chevron-down"

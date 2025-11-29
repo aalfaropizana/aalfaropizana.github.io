@@ -1,53 +1,66 @@
 {
-  "sectionTitle": "Work Experience",
+  "sectionTitle": "Experience",
   "experiences": [
     {
-      "title": "Al Engineer, Senior Associate",
-      "company": "BANK OF NEW YORK",
-      "location": "",
-      "period": "Jul. 2024-",
+      "title": "AI Engineer, Senior Associate",
+      "company": "Bank of New York",
+      "period": "Jul 2024 - Present",
       "type": "Full-time",
       "color": "#667eea",
-      "icon": "fas fa-briefcase",
-      "description": "BNY AI Governance Data Scientist: Chair of Responsible AI (RAI) Review Board, a cross-functional committee composed of 15 Senior Directors\nrepresenting Cybersecurity, Legal, and Risk. where I am responsible for conducting in-depth reviews of AI/ML models in advance of daily board\nmeetings, identifying key risk areas and points for discussion. So far, I have chaired and reviewed 288 models focusing on analizing performance,\narchitecture, the legality of the data use and potential privacy and security concerns.\nBNY Al Model Risk Data Scientist: Validated a total of 43 models deployed across BNY's LoBs - ranging from: Al Highly Speculative Securities\nAnalysis, Retail LockBox Checks Automation, Wealth Management Market Summarizers, Al Trade Finance MT799 Loan Automation, Al Credit\nUnderwriting, CA3 Credit Approval, Al Pershing Sanctions Processing, etc. As a validator, I ensure model outcomes demonstrate satisfactory\noutcomes in a predictable manner through representative sampling, continuous evaluation, OPM monitoring, benchmark curation, as well as\nback-testing, reference point analysis, and replication testing for ML & LLM internal usecases.\nBNY AI Model Risk Innovation Data Scientist (Patent under Reivew): Innovated evaluation pipelines for Hallucination Testing, Error/Root Cause\nAnalysis and Edge Case Testing- including adversarial and low frequency testing that can be reused across LLMs performing similar capabilities.",
-      "responsibilities": [],
-      "technologies": []
+      "icon": "fas fa-building",
+      "description": "",
+      "responsibilities": [
+        "Chair of Responsible AI (RAI) Review Board - a cross-functional committee of 15 Senior Directors from Cybersecurity, Legal, and Risk",
+        "Reviewed 288+ AI/ML models analyzing performance, architecture, data legality, privacy and security concerns",
+        "Validated 43 production models across business lines including Trade Finance, Credit Underwriting, and Wealth Management",
+        "Innovated evaluation pipelines for LLM Hallucination Testing, Error Analysis, and Adversarial Edge Case Testing (Patent Pending)"
+      ],
+      "technologies": ["Python", "LLMs", "ML Ops", "Risk Analysis"]
     },
     {
-      "title": "Natural Language Processing Engineer Intern",
-      "company": "LANGUAGE TECH. INSTITUTE, SCHOOL OF COMPUTER SCIENCE, CARNEGIE MELLON UNIVERSITY",
-      "location": "",
-      "period": "Jun. 2023 - Sep. 2023",
-      "type": "Full-time",
+      "title": "NLP Research Engineer Intern",
+      "company": "Carnegie Mellon University - Language Technologies Institute",
+      "period": "Jun 2023 - Sep 2023",
+      "type": "Internship",
       "color": "#764ba2",
-      "icon": "fas fa-briefcase",
-      "description": "Data Augmentation: Leveraged existing datasets and ODIN database to address data scarcity in low-resource languages (SIGMOREFUN Team)\nModeling: Built a low resource language conversational Al system and the world first Al translator for MIXTEC language. Used Rust, ByT5 and\nWFST sequence-to-sequence model and enhanced a RoBERTa-derived token classification model, introducing methods, e.g., the \"copy\" token\nResults: Token classification models outperformed sequence-to-sequence models, with plans for future refinement and expanded data collec-\ntion. Paper accepted in one of the top 3 NLP conferences: the Association for Computational Linguistics (ACL'24)",
-      "responsibilities": [],
-      "technologies": []
+      "icon": "fas fa-flask",
+      "description": "",
+      "responsibilities": [
+        "Built the world's first AI translator for MIXTEC, an endangered indigenous Mexican language",
+        "Developed RoBERTa-derived token classification model with novel 'copy' token method",
+        "Leveraged ByT5 and WFST sequence-to-sequence models for low-resource language translation",
+        "Published research at ACL 2024 - one of the top 3 NLP conferences globally"
+      ],
+      "technologies": ["PyTorch", "Rust", "NLP", "RoBERTa", "ByT5"]
     },
     {
       "title": "Data Engineer",
-      "company": "DEPARTMENT OF INTELLIGENCE AND INNOVATION, SUPREME COURT OF JUSTICE OF THE NATION",
-      "location": "",
-      "period": "Jun. 2021 - Jul 2022",
+      "company": "Supreme Court of Justice of Mexico",
+      "period": "Jun 2021 - Jul 2022",
       "type": "Full-time",
       "color": "#f093fb",
-      "icon": "fas fa-briefcase",
-      "description": "Designed the nation's first PostgreSQL relational database of 17,000 attributes for information generated by the Federal Justice System\n• Programmed Natural Language Processing functions that parsed and tagged legal terminology of Trial Sentences\nDrafted policies and guidelines that govern the Federal Direction of Innovation and Digital Transformation",
-      "responsibilities": [],
-      "technologies": []
+      "icon": "fas fa-gavel",
+      "description": "",
+      "responsibilities": [
+        "Designed Mexico's first PostgreSQL relational database with 17,000 attributes for the Federal Justice System",
+        "Built NLP functions to parse and tag legal terminology across 5M+ trial sentences",
+        "Drafted policies governing the Federal Direction of Innovation and Digital Transformation"
+      ],
+      "technologies": ["PostgreSQL", "Python", "NLP", "Data Engineering"]
     },
     {
-      "title": "Teaching Assistant",
-      "company": "STATISTICS Department, InstITUTO TECNOLÓGICO AUTÓNOMO DE MÉXICO",
-      "location": "",
+      "title": "Teaching Assistant - Advanced Statistical Methods",
+      "company": "ITAM - Instituto Tecnologico Autonomo de Mexico",
       "period": "Jul 2019 - Dec 2019",
-      "type": "Full-time",
+      "type": "Part-time",
       "color": "#4facfe",
-      "icon": "fas fa-briefcase",
-      "description": "Taught the class Advanced Statistical Methods, including linear, probit, pooled data regressions, R Studio and statistical inference models",
-      "responsibilities": [],
-      "technologies": []
+      "icon": "fas fa-chalkboard-teacher",
+      "description": "",
+      "responsibilities": [
+        "Taught linear regression, probit models, pooled data analysis, and statistical inference",
+        "Instructed students in R Studio for advanced statistical computing"
+      ],
+      "technologies": ["R", "Statistics", "Teaching"]
     }
   ]
 }

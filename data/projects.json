@@ -2,108 +2,16 @@
   "sectionTitle": "Featured Projects",
   "projects": [
     {
-      "title": "generating-synthetic-data-using-gans",
-      "description": "Hands-on learning experience with modern frameworks",
+      "title": "LLMs in Finance",
+      "description": "Enterprise-grade LLM applications for financial services, including document analysis and automated reporting systems.",
       "color": "#667eea",
-      "icon": "fab fa-github",
-      "technologies": [
-        "Jupyter Notebook"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/aalfaropizana/generating-synthetic-data-using-gans",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": "Jupyter Notebook"
-      }
-    },
-    {
-      "title": "thesis-option-pricing-with-deep-learning",
-      "description": "Personal project for exploring modern development practices",
-      "color": "#764ba2",
-      "icon": "fab fa-github",
-      "technologies": [
-        "Jupyter Notebook",
-        "Python"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/aalfaropizana/thesis-option-pricing-with-deep-learning",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": "Jupyter Notebook"
-      }
-    },
-    {
-      "title": "llms-in-finance",
-      "description": "Modern web application demonstrating clean code principles",
-      "color": "#f093fb",
-      "icon": "fab fa-github",
-      "technologies": [
-        "Jupyter Notebook",
-        "Python",
-        "Starlark"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
+      "icon": "fas fa-chart-line",
+      "technologies": ["Python", "LangChain", "OpenAI", "RAG"],
+      "keyFeatures": ["Document Q&A", "Financial Analysis", "Enterprise Security"],
+      "projectType": "AI/ML",
+      "highlight": "Production System",
       "links": {
         "github": "https://github.com/aalfaropizana/llms-in-finance",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": "Jupyter Notebook"
-      }
-    },
-    {
-      "title": "lawglance",
-      "description": "Full-featured application built as a learning exercise",
-      "color": "#4facfe",
-      "icon": "fab fa-github",
-      "technologies": [
-        "Jupyter Notebook",
-        "Python"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/aalfaropizana/lawglance",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": "Jupyter Notebook"
-      }
-    },
-    {
-      "title": "financial_advisor_llm",
-      "description": "Portfolio project showcasing development capabilities",
-      "color": "#667eea",
-      "icon": "fab fa-github",
-      "technologies": [
-        "Python",
-        "Jupyter Notebook",
-        "Makefile"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/aalfaropizana/financial_advisor_llm",
         "demo": ""
       },
       "stats": {
@@ -113,17 +21,33 @@
       }
     },
     {
-      "title": "multi-agent-conversation-for-disease-diagnosis",
-      "description": "Full-featured application built as a learning exercise",
+      "title": "NLegal",
+      "description": "AI-powered legal document analysis platform. Built during CMU's Olympus Incubator program, finalist at McGinnis Venture Competition.",
       "color": "#764ba2",
-      "icon": "fab fa-github",
-      "technologies": [
-        "Python",
-        "Shell"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
+      "icon": "fas fa-gavel",
+      "technologies": ["Python", "NLP", "React", "FastAPI"],
+      "keyFeatures": ["Legal NLP", "Document Classification", "Citation Analysis"],
+      "projectType": "Startup",
+      "highlight": "CMU Incubator",
+      "links": {
+        "github": "https://github.com/aalfaropizana/lawglance",
+        "demo": "https://aalfaropizana.github.io/NLegal-Landing/"
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Python"
+      }
+    },
+    {
+      "title": "Multi-Agent Disease Diagnosis",
+      "description": "Multi-agent conversational AI system for medical diagnosis assistance using collaborative LLM agents.",
+      "color": "#f093fb",
+      "icon": "fas fa-heartbeat",
+      "technologies": ["Python", "AutoGen", "GPT-4", "Multi-Agent"],
+      "keyFeatures": ["Agent Collaboration", "Medical NLP", "Diagnostic Reasoning"],
+      "projectType": "Research",
+      "highlight": "Multi-Agent AI",
       "links": {
         "github": "https://github.com/aalfaropizana/multi-agent-conversation-for-disease-diagnosis",
         "demo": ""
@@ -135,187 +59,14 @@
       }
     },
     {
-      "title": "vulnerabilitydetection",
-      "description": "Practice repository for exploring advanced features",
-      "color": "#f093fb",
-      "icon": "fab fa-github",
-      "technologies": [
-        "TeX",
-        "Python"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/aalfaropizana/vulnerabilitydetection",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": "TeX"
-      }
-    },
-    {
-      "title": "Scrappers",
-      "description": "Newspaper Scrappers",
+      "title": "ZKP Chain of Custody",
+      "description": "Zero-knowledge proof implementation for secure chain of custody verification in legal and forensic applications.",
       "color": "#4facfe",
-      "icon": "fab fa-github",
-      "technologies": [
-        "Python"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/aalfaropizana/Scrappers",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": "Python"
-      }
-    },
-    {
-      "title": "Academic-Exams-Homeworks",
-      "description": "My key Computer Engineering Exams and Homeworks",
-      "color": "#667eea",
-      "icon": "fab fa-github",
-      "technologies": [
-        "Python"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/aalfaropizana/Academic-Exams-Homeworks",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": "Python"
-      }
-    },
-    {
-      "title": "NLegal-Landing",
-      "description": "GitHub repository: NLegal-Landing",
-      "color": "#764ba2",
-      "icon": "fab fa-github",
-      "technologies": [
-        "HTML"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/aalfaropizana/NLegal-Landing",
-        "demo": "https://aalfaropizana.github.io/NLegal-Landing/"
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": "HTML"
-      }
-    },
-    {
-      "title": "WFSTs",
-      "description": "Takes .txt files and creates wfst objects. Performs union and composition operations. ",
-      "color": "#f093fb",
-      "icon": "fab fa-github",
-      "technologies": [],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/aalfaropizana/WFSTs",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": ""
-      }
-    },
-    {
-      "title": "NLegal-Landing3",
-      "description": "GitHub repository: NLegal-Landing3",
-      "color": "#4facfe",
-      "icon": "fab fa-github",
-      "technologies": [
-        "HTML",
-        "JavaScript",
-        "Python",
-        "CSS"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/aalfaropizana/NLegal-Landing3",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 1,
-        "language": "HTML"
-      }
-    },
-    {
-      "title": "NLegal-Landing2",
-      "description": "GitHub repository: NLegal-Landing2",
-      "color": "#667eea",
-      "icon": "fab fa-github",
-      "technologies": [
-        "HTML",
-        "JavaScript",
-        "CSS"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/aalfaropizana/NLegal-Landing2",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": "HTML"
-      }
-    },
-    {
-      "title": "Mexican_Newspaper_Scraper",
-      "description": "GitHub repository: Mexican_Newspaper_Scraper",
-      "color": "#764ba2",
-      "icon": "fab fa-github",
-      "technologies": [
-        "JavaScript",
-        "Python"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/aalfaropizana/Mexican_Newspaper_Scraper",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": "JavaScript"
-      }
-    },
-    {
-      "title": "zkp-chain-of-custody",
-      "description": "GitHub repository: zkp-chain-of-custody",
-      "color": "#f093fb",
-      "icon": "fab fa-github",
-      "technologies": [],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
+      "icon": "fas fa-shield-alt",
+      "technologies": ["Cryptography", "ZKP", "Blockchain"],
+      "keyFeatures": ["Privacy Preservation", "Cryptographic Proofs", "Legal Tech"],
+      "projectType": "Security",
+      "highlight": "Cryptography",
       "links": {
         "github": "https://github.com/aalfaropizana/zkp-chain-of-custody",
         "demo": ""
@@ -323,7 +74,26 @@
       "stats": {
         "stars": 0,
         "forks": 0,
-        "language": ""
+        "language": "Python"
+      }
+    },
+    {
+      "title": "Vulnerability Detection",
+      "description": "ML-based code vulnerability detection system for identifying security flaws in source code.",
+      "color": "#667eea",
+      "icon": "fas fa-bug",
+      "technologies": ["Python", "ML", "Static Analysis", "NLP"],
+      "keyFeatures": ["Code Analysis", "Vulnerability Classification", "Security"],
+      "projectType": "Security",
+      "highlight": "Cybersecurity",
+      "links": {
+        "github": "https://github.com/aalfaropizana/vulnerabilitydetection",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Python"
       }
     }
   ]

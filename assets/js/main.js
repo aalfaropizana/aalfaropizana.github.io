@@ -345,6 +345,9 @@ async function loadExperience() {
                 : '';
 
             timelineItem.innerHTML = `
+                <div class="timeline-icon" style="background-color: ${exp.color || '#667eea'}">
+                    <i class="${exp.icon || 'fas fa-briefcase'}"></i>
+                </div>
                 <div class="timeline-content">
                     <div class="timeline-header">
                         <div>
@@ -354,7 +357,7 @@ async function loadExperience() {
                         <span class="timeline-period">${exp.period}</span>
                     </div>
                     <div class="timeline-description">
-                        <p>${exp.description}</p>
+                        ${exp.description ? `<p>${exp.description}</p>` : ''}
                         ${responsibilities}
                     </div>
                 </div>
