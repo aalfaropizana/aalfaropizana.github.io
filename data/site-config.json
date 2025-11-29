@@ -1,0 +1,13 @@
+{
+  "title": "Ana Pizana - Professional Portfolio",
+  "description": "Professional portfolio showcasing my work and experience",
+  "author": "Ana Pizana",
+  "keywords": "Cybersecurity Software, SiLK, Suricata, Snort, Wireshark, Kibana, pfSense, Endian, Snorby, Bro IDS, Python, PostgreSQL, Rust, JAVA, NumPy, Pandas, MatLab, TensorFlow, Scikit-learn, NLTK, PyTorch, ENGLISH, SPANISH, FRENCH",
+  "ogImage": "/assets/images/og-image.jpg",
+  "favicon": "/assets/images/favicon.ico",
+  "theme": {
+    "primaryColor": "#3b82f6",
+    "secondaryColor": "#8b5cf6",
+    "accentColor": "#ec4899"
+  }
+}

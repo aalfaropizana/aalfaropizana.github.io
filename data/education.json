@@ -1,0 +1,25 @@
+{
+  "sectionTitle": "Education",
+  "education": [
+    {
+      "degree": "Master of Science in Information Security Policy and Management",
+      "institution": "CARNEGIE MELlon University (CMU)",
+      "period": "Aug. 2022 - May 2024",
+      "description": "Master of Science in Information Security Policy and Management",
+      "achievements": [],
+      "color": "#667eea",
+      "icon": "fas fa-graduation-cap"
+    },
+    {
+      "degree": "Bachelor of Science in Statistics & Political Science with minor in Computer Science",
+      "institution": "INSTITUTO TECNOLÓGICO AUTÓNOMO DE MÉXICO (ITAM)",
+      "period": "Aug. 2016-May 2021",
+      "description": "Bachelor of Science in Statistics & Political Science with minor in Computer Science",
+      "achievements": [],
+      "color": "#764ba2",
+      "icon": "fas fa-graduation-cap"
+    }
+  ],
+  "certificationsTitle": "Certifications & Awards",
+  "certifications": []
+}

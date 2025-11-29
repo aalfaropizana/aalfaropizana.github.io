@@ -1,0 +1,41 @@
+{
+  "sectionTitle": "Skills & Technologies",
+  "categories": [
+    {
+      "category": "Technical Skills",
+      "icon": "fas fa-code",
+      "color": "#667eea",
+      "skills": [
+        "Cybersecurity Software",
+        "SiLK",
+        "Suricata",
+        "Snort",
+        "Wireshark",
+        "Kibana",
+        "pfSense",
+        "Endian",
+        "Snorby",
+        "Bro IDS"
+      ]
+    },
+    {
+      "category": "Tools & Frameworks",
+      "icon": "fas fa-tools",
+      "color": "#764ba2",
+      "skills": [
+        "Rust",
+        "JAVA",
+        "NumPy",
+        "Pandas",
+        "MatLab",
+        "TensorFlow",
+        "Scikit-learn",
+        "NLTK",
+        "PyTorch",
+        "ENGLISH",
+        "SPANISH",
+        "FRENCH"
+      ]
+    }
+  ]
+}
