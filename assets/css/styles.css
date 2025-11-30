@@ -642,19 +642,46 @@ ul {
 .project-links {
     display: flex;
     gap: var(--spacing-sm);
+    margin-top: var(--spacing-sm);
 }
 
 .project-link {
-    display: flex;
+    display: inline-flex;
     align-items: center;
     gap: 0.5rem;
-    color: var(--primary-color);
+    padding: 0.5rem 1rem;
+    border-radius: var(--radius-md);
     font-weight: 500;
+    font-size: 0.9rem;
     transition: all var(--transition-fast);
 }
 
-.project-link:hover {
-    color: var(--primary-dark);
+.project-link.github-link {
+    background-color: #24292e;
+    color: #ffffff;
+}
+
+.project-link.github-link:hover {
+    background-color: #1a1e22;
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+    color: #ffffff;
+}
+
+.project-link.demo-link {
+    background-color: var(--primary-color);
+    color: #ffffff;
+}
+
+.project-link.demo-link:hover {
+    background-color: var(--primary-dark);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+    color: #ffffff;
+}
+
+.project-link i {
+    font-size: 1rem;
 }
 
 /* ==========================================================================
