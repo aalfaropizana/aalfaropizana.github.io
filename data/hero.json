@@ -1,14 +1,14 @@
 {
   "greeting": "Hello, I'm",
   "name": "Ana Pizana",
-  "title": "AI Engineer",
+  "title": "Senior AI Engineer",
   "tagline": "Building Responsible AI at Scale",
-  "summary": "AI Engineer at Bank of New York | Carnegie Mellon University | ACL'24 Published Researcher",
+  "summary": "Senior AI Engineer at Bank of New York | Carnegie Mellon University | ACL'24 Published Researcher",
   "highlights": [
     {
       "icon": "fas fa-brain",
       "color": "#667eea",
-      "text": "288+ AI Models Reviewed"
+      "text": "288+ AI Models Validated"
     },
     {
       "icon": "fas fa-lightbulb",
