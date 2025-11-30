@@ -1,17 +1,34 @@
 {
-  "tagline": "Building the future, one line of code at a time.",
-  "socialLinks": [],
+  "tagline": "Building Responsible AI at Scale",
+  "socialLinks": [
+    {
+      "url": "https://www.linkedin.com/in/ana-alfaro-pizana-484bb9252/",
+      "icon": "fab fa-linkedin",
+      "platform": "LinkedIn"
+    },
+    {
+      "url": "https://github.com/aalfaropizana",
+      "icon": "fab fa-github",
+      "platform": "GitHub"
+    }
+  ],
   "copyright": {
-    "text": "© 2025 Ana Pizana. All rights reserved."
+    "year": "2025",
+    "name": "Ana Pizana",
+    "text": "All rights reserved."
   },
   "links": [
     {
-      "href": "#",
-      "text": "Privacy Policy"
+      "href": "#home",
+      "text": "Home"
     },
     {
-      "href": "#",
-      "text": "Terms of Service"
+      "href": "#about",
+      "text": "About"
+    },
+    {
+      "href": "#contact",
+      "text": "Contact"
     }
   ]
 }
