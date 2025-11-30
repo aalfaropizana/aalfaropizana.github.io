@@ -435,13 +435,16 @@ async function loadProjects() {
                 .join('');
 
             const links = [];
-            if (project.github) {
-                links.push(`<a href="${project.github}" target="_blank" class="project-link">
+            const githubUrl = project.github || (project.links && project.links.github);
+            const demoUrl = project.demo || (project.links && project.links.demo);
+
+            if (githubUrl) {
+                links.push(`<a href="${githubUrl}" target="_blank" class="project-link github-link">
                     <i class="fab fa-github"></i> View Code
                 </a>`);
             }
-            if (project.demo) {
-                links.push(`<a href="${project.demo}" target="_blank" class="project-link">
+            if (demoUrl) {
+                links.push(`<a href="${demoUrl}" target="_blank" class="project-link demo-link">
                     <i class="fas fa-external-link-alt"></i> Live Demo
                 </a>`);
             }
